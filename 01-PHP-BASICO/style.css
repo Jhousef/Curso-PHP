@@ -1,0 +1,10 @@
+*{
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(25, 22, 34);
+    color: white;
+}
